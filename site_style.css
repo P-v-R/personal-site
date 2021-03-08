@@ -1,0 +1,78 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url("./chair-pic.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+
+.contact-bg{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url("./contact-page-01.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;   
+
+}
+.intro{
+    text-align: center;
+    color:ivory;
+    padding-bottom: -1000px;
+    font-style: italic;
+}
+
+
+.navbar{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color:ivory;
+    
+    
+}
+
+#link{
+    color:ivory;
+}
+a {
+    color:ivory;
+    font-weight: lighter;
+    text-decoration: transparent;
+    padding-right: 40px;
+    
+
+  }
+a:hover{
+    color:wheat;
+    font-weight:bolder;
+    text-decoration:ivory;
+    
+    
+}
+
+.contact{
+    text-align: center;
+    font-size: 80px;
+}
+.contact-text{
+    font-style:normal;
+    text-align: center;
+    font-size: 40px;
+    color:black;
+    padding-bottom: 20px;
+    position:relative;
+    
+}
+.contact-link{
+    font-style:normal;
+    text-align: center;
+    font-size: 50px;
+    color:black;
+    position: relative; 
+    bottom: 40px;
+}
+.contact-link:hover{
+    color:rgb(235, 147, 32);
+    font-weight:bolder;
+    text-decoration:ivory;
+}
